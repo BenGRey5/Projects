@@ -1,0 +1,27 @@
+.before {
+    float: left;
+    background-color: beige;
+    width: 30%;
+    padding: 20px;
+    border: solid black;
+    border-width: 25px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.during {
+    float: left;
+    background-color: rgb(116, 201, 201);
+    border: 10px;
+    padding: 50;
+}
+
+.after {
+    float: right;
+    background-color: antiquewhite;
+    border: 20px;
+}
+
+img {
+    width: 300px;
+}

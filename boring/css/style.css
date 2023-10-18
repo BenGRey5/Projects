@@ -1,0 +1,16 @@
+
+
+.Intro {
+    font-style: normal ;
+    text-align: center;
+  }
+h2.Intro {
+    font-style:normal;
+    color: blue;
+}
+
+
+div {
+    background: lightgray;
+    width: 75%
+}
